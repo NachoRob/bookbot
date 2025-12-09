@@ -1,0 +1,2 @@
+# We don't want to track the books directory - no data yes code
+/books/
